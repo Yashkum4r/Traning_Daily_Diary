@@ -1,13 +1,3 @@
-Yes, definitely. This is actually a better approach. If you send me your report, I'll **rewrite it** so it:
-
-* Keeps the **same topic and meaning**.
-* Uses **different sentence structures**.
-* Changes headings slightly where appropriate.
-* Uses different examples or wording.
-* Looks like it was written independently by another student.
-
-For your **Day 10**, here's a rewritten version:
-
 # Day 10 – Automated Exploratory Data Analysis (Auto EDA)
 
 Today, I explored **Automated Exploratory Data Analysis (Auto EDA)**, a technique that simplifies the process of understanding datasets. Instead of manually applying multiple analysis functions, Auto EDA tools generate detailed reports containing statistics, visualizations, and data quality insights in just a few steps.
